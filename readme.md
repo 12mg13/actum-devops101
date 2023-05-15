@@ -29,3 +29,5 @@
         - Allow static website hosting https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal
     - Define yaml ci/cd templates
         - https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines&tabs=schema&viewFallbackFrom=azure-devops
+
+edit
